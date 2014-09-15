@@ -8,5 +8,12 @@
 
 import Foundation
 
-println("Hello, World!")
 
+//This is my first car
+var myFirstCar = CarFactory()
+myFirstCar.setupCarDetailsWithName ("Mustang", color: "Red", horsepower: 200, automaticOption: true)
+
+
+//This is my second car
+var mySecondCar = CarFactory()
+mySecondCar.setupCarDetailsWithName ("BMW", color: "Blue", horsepower: 300, automaticOption: false)
