@@ -28,11 +28,7 @@ class CarFactory {
     }
     
     /*
-    func setupCarDetailsWithName(nameOfCar: String, colorOfCar: String, horsepowerOfCar: Int, automaticOptionOfCar: Bool) {
-        name = nameOfCar
-        color = colorOfCar
-        horsepower = horsepowerOfCar
-        automaticOption = (automaticOptionOfCar ? "Automatic" : "Manual")
+  I'm a little teapot short and stout. Here is my handle here is my spout. ;)
     } */
 }
 
